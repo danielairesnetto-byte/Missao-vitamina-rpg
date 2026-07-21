@@ -40,4 +40,4 @@ Você não precisa baixar nem compilar nada na sua máquina para jogar!
 ## 👤 Autor
 
 Desenvolvido por **Daniel Aires Netto** 🚀
-* 💼 [LinkedIn](https://www.linkedin.com/in/daniel-aires-netto-2997783a4/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/daniel-aires-netto-4034b13bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
